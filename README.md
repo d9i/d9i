@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Dara!
+
+Right now I'm working on Data Products at Rearc, with a focus on Healthcare & Life Sciences.
+
+Before that, I was a Managing Consultant at Farlinium, where I helped start their BI & Analytics practice.
 
 <!--
 **d9i/d9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
