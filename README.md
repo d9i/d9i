@@ -1,6 +1,6 @@
 ### Hi, I'm Dara!
 
-Right now I'm working on Data Products at Rearc, with a focus on Healthcare & Life Sciences.
+Right now I'm working on Data and AI at Rearc.
 
 Before that, I was a Managing Consultant at Farlinium, where I helped start their BI & Analytics practice.
 
